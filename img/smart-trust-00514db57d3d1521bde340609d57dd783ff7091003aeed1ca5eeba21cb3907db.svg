@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="105px" viewBox="0 0 105 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>smart-trust</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="45" cy="45" r="45"></circle>
+        <circle id="path-3" cx="45" cy="45" r="45"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06" transform="translate(-662.000000, -750.000000)">
+            <g id="Platform" transform="translate(-21.000000, 533.000000)">
+                <g id="Group-4" transform="translate(269.000000, 97.000000)">
+                    <g id="Group" transform="translate(33.000000, 120.000000)">
+                        <g id="smart-trust" transform="translate(381.000000, 0.000000)">
+                            <circle id="Oval" fill="#FFFFFF" opacity="0.097265625" cx="52.5" cy="52.5" r="52.5"></circle>
+                            <g id="Rectangle-30" transform="translate(7.000000, 8.000000)">
+                                <g id="Mask" fill="#4683FF" fill-rule="nonzero">
+                                    <circle id="path-1" cx="45" cy="45" r="45"></circle>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <rect id="Rectangle-path" fill="#62DBFF" fill-rule="nonzero" mask="url(#mask-2)" x="45" y="-3.85714286" width="56.5714286" height="105.428571"></rect>
+                                </g>
+                                <g id="Path-44-Clipped">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                    <path d="M49.3384249,22.1928173 L95.8876395,42.1545774 C91.3146807,55.4167974 87.1393773,65.1046476 83.3617292,71.2181278 C79.5840812,77.3316082 66.7418197,89.8262229 44.8349446,108.701972 L44.8349446,69.2182224 L49.3384249,22.1928173 Z" id="Path-44" fill="#2CBBE7" fill-rule="nonzero" opacity="0.740885417" mask="url(#mask-4)"></path>
+                                </g>
+                            </g>
+                            <path d="M66.1623998,35 L39.5406,35 C38.1374653,35 37,36.1616396 37,37.5945946 L37,80.4054054 C37,81.8383604 38.1374653,83 39.5406,83 L72.4594,83 C73.8625347,83 75,81.8383604 75,80.4054054 L75,54.4594595 L57.3247997,54.4594595 L57.3247997,35 L66.1623998,35 Z" id="Combined-Shape" fill="#396FDC" fill-rule="nonzero"></path>
+                            <path d="M64.1623998,30 L37.5406,30 C36.1374653,30 35,31.1616396 35,32.5945946 L35,75.4054054 C35,76.8383604 36.1374653,78 37.5406,78 L70.4594,78 C71.8625347,78 73,76.8383604 73,75.4054054 L73,49.4594595 L55.3247997,49.4594595 L55.3247997,30 L64.1623998,30 Z" id="Combined-Shape" fill="#70DEFF" fill-rule="nonzero"></path>
+                            <path d="M56,30 L56,47.4225973 C56,48.8460575 57.1598521,50 58.5906021,50 L74,50 L56,30 Z" id="Path-45" fill="#4683FF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

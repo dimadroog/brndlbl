@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="136px" viewBox="0 0 127 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>network-effects</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06" transform="translate(-823.000000, -1265.000000)">
+            <g id="network-effects" transform="translate(823.000000, 1265.000000)">
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(36.655803, 19.907433) rotate(-30.000000) translate(-36.655803, -19.907433) " x="4.2105472" y="17.5899148" width="64.8905109" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(59.931747, 42.115073) rotate(-90.000000) translate(-59.931747, -42.115073) " x="27.4864914" y="39.7975548" width="64.8905109" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(59.791971, 96.408759) rotate(-90.000000) translate(-59.791971, -96.408759) " x="27.3467157" y="94.091241" width="64.8905109" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(61.789782, 65.888438) rotate(-30.000000) translate(-61.789782, -65.888438) " x="2.46131536" y="63.5709198" width="118.656934" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(63.662806, 66.897541) scale(-1, 1) rotate(-30.000000) translate(-63.662806, -66.897541) " x="4.33433893" y="64.5800223" width="118.656934" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(83.950605, 20.083672) scale(-1, 1) rotate(-30.000000) translate(-83.950605, -20.083672) " x="51.5053493" y="17.7661537" width="64.8905109" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(37.600240, 105.215328) scale(-1, 1) rotate(150.000000) translate(-37.600240, -105.215328) " x="5.15498491" y="102.89781" width="64.8905109" height="4.6350365"></rect>
+                <rect id="Rectangle-45" fill="#CCE5FB" fill-rule="nonzero" transform="translate(84.877613, 105.215328) rotate(150.000000) translate(-84.877613, -105.215328) " x="52.4323578" y="102.897809" width="64.8905109" height="4.6350365"></rect>
+                <rect id="Rectangle-44" fill="#CCE5FB" fill-rule="nonzero" x="12.0510949" y="33.3722628" width="4.6350365" height="57.4744526"></rect>
+                <rect id="Rectangle-44" fill="#CCE5FB" fill-rule="nonzero" x="108.459854" y="33.3722628" width="4.6350365" height="57.4744526"></rect>
+                <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="60.2554745" cy="13.9051095" r="13.9051095"></circle>
+                <g id="Oval-25" transform="translate(50.000000, 4.000000)">
+                    <g id="path-1-link" fill="#000000" fill-rule="nonzero">
+                        <circle id="path-1" cx="10.2554745" cy="9.9051095" r="9.27007299"></circle>
+                    </g>
+                    <g id="path-1-link" fill="#FFFFFF">
+                        <circle id="path-1" cx="10.2554745" cy="9.9051095" r="9.27007299"></circle>
+                    </g>
+                </g>
+                <g id="Oval-25" style="mix-blend-mode: darken;" transform="translate(54.000000, 8.000000)" fill="#60B3FD">
+                    <g id="path-1-link">
+                        <circle id="path-1" cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                    </g>
+                </g>
+                <g id="Oval-25" style="mix-blend-mode: darken;" transform="translate(54.000000, 8.000000)" fill="#60B3FD">
+                    <g id="path-1-link">
+                        <g id="path-1">
+                            <circle cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                        </g>
+                        <circle id="path-1" cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                    </g>
+                </g>
+                <g id="Group-19" transform="translate(46.350365, 53.766423)">
+                    <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="13.9051095" cy="13.9051095" r="13.9051095"></circle>
+                    <g id="Oval-25" transform="translate(4.000000, 4.000000)">
+                        <g id="path-3-link" fill="#000000" fill-rule="nonzero">
+                            <circle id="path-3" cx="9.9051095" cy="9.9051095" r="9.27007299"></circle>
+                        </g>
+                        <g id="path-3-link" fill="#FFFFFF">
+                            <circle id="path-3" cx="9.9051095" cy="9.9051095" r="9.27007299"></circle>
+                        </g>
+                    </g>
+                </g>
+                <circle id="path-1" fill="#46659D" cx="60.1620194" cy="67.5620438" r="5.56204379"></circle>
+                <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="60.2554745" cy="121.437956" r="13.9051095"></circle>
+                <g id="Oval-25" transform="translate(50.000000, 112.000000)">
+                    <g id="path-5-link" fill="#000000" fill-rule="nonzero">
+                        <circle id="path-5" cx="10.2554745" cy="9.437956" r="9.27007299"></circle>
+                    </g>
+                    <g id="path-5-link" fill="#FFFFFF">
+                        <circle id="path-5" cx="10.2554745" cy="9.437956" r="9.27007299"></circle>
+                    </g>
+                </g>
+                <g id="Oval-25" style="mix-blend-mode: darken;" transform="translate(53.500000, 115.000000)" fill="#60B3FD">
+                    <g id="path-1-link">
+                        <g id="path-1">
+                            <circle cx="6.66605843" cy="6.43832117" r="6.02554744"></circle>
+                        </g>
+                        <circle id="path-1" cx="6.66605843" cy="6.43832117" r="6.02554744"></circle>
+                    </g>
+                </g>
+                <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="113.094891" cy="93.6277372" r="13.9051095"></circle>
+                <g id="Oval-25" transform="translate(103.000000, 84.000000)">
+                    <g id="path-7-link" fill="#000000" fill-rule="nonzero">
+                        <circle id="path-7" cx="10.094891" cy="9.6277372" r="9.27007299"></circle>
+                    </g>
+                    <g id="path-7-link" fill="#FFFFFF">
+                        <circle id="path-7" cx="10.094891" cy="9.6277372" r="9.27007299"></circle>
+                    </g>
+                </g>
+                <circle id="path-1" fill="#46659D" cx="113.062044" cy="93.5620438" r="5.56204379"></circle>
+                <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="13.9051095" cy="93.6277372" r="13.9051095"></circle>
+                <g id="Oval-25" transform="translate(4.000000, 84.000000)">
+                    <g id="path-9-link" fill="#000000" fill-rule="nonzero">
+                        <circle id="path-9" cx="9.9051095" cy="9.6277372" r="9.27007299"></circle>
+                    </g>
+                    <g id="path-9-link" fill="#FFFFFF">
+                        <circle id="path-9" cx="9.9051095" cy="9.6277372" r="9.27007299"></circle>
+                    </g>
+                </g>
+                <g id="Oval-25" style="mix-blend-mode: darken;" transform="translate(7.799988, 87.500000)" fill="#60B3FD">
+                    <g id="path-1-link">
+                        <g id="path-1">
+                            <circle cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                        </g>
+                        <circle id="path-1" cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                    </g>
+                </g>
+                <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="13.9051095" cy="38.0072993" r="13.9051095"></circle>
+                <g id="Oval-25" transform="translate(4.000000, 28.000000)">
+                    <g id="path-11-link" fill="#000000" fill-rule="nonzero">
+                        <circle id="path-11" cx="9.9051095" cy="10.0072993" r="9.27007299"></circle>
+                    </g>
+                    <g id="path-11-link" fill="#FFFFFF">
+                        <circle id="path-11" cx="9.9051095" cy="10.0072993" r="9.27007299"></circle>
+                    </g>
+                </g>
+                <g id="Oval-25" style="mix-blend-mode: darken;" transform="translate(8.500000, 32.000000)" fill="#46659D">
+                    <g id="path-1-link">
+                        <circle id="path-1" cx="5.56204379" cy="5.9430657" r="5.56204379"></circle>
+                    </g>
+                </g>
+                <circle id="Oval-5-Copy" fill="#CCE5FB" fill-rule="nonzero" cx="113.094891" cy="38.0072993" r="13.9051095"></circle>
+                <g id="Oval-25" transform="translate(103.000000, 28.000000)">
+                    <g id="path-13-link" fill="#000000" fill-rule="nonzero">
+                        <circle id="path-13" cx="10.094891" cy="10.0072993" r="9.27007299"></circle>
+                    </g>
+                    <g id="path-13-link" fill="#FFFFFF">
+                        <circle id="path-13" cx="10.094891" cy="10.0072993" r="9.27007299"></circle>
+                    </g>
+                </g>
+                <g id="Oval-25" style="mix-blend-mode: darken;" transform="translate(107.000000, 32.000000)" fill="#60B3FD">
+                    <g id="path-1-link">
+                        <g id="path-1">
+                            <circle cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                        </g>
+                        <circle id="path-1" cx="6.1532847" cy="5.9430657" r="5.56204379"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

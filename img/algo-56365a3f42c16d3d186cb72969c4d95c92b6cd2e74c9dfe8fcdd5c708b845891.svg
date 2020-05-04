@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="algo-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".5"/>
+      <stop offset="100%" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="15" cy="15" r="15" fill="#000" fill-rule="nonzero"/>
+    <circle cx="15" cy="15" r="15" fill="#00C3B4" fill-rule="nonzero"/>
+    <circle cx="15" cy="15" r="15" fill="url(#algo-a)" fill-rule="nonzero"/>
+    <circle cx="15" cy="15" r="14.5" stroke="#000" stroke-opacity=".097"/>
+    <polygon fill="#FFF" fill-rule="nonzero" points="22 21.997 19.492 21.997 17.862 15.946 14.359 21.997 11.559 21.997 16.973 12.631 16.102 9.379 8.802 22 6 22 15.251 6 17.704 6 18.778 9.975 21.309 9.975 19.581 12.975"/>
+  </g>
+</svg>
