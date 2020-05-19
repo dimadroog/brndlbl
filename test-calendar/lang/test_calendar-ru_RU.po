@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-19 15:58+0000\n"
+"PO-Revision-Date: 2020-05-19 16:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#. Description of the plugin
+msgid ""
+"A test Calendar. Calls with shortcode [test_calendar] in theme or any post"
+msgstr ""
+"Тестовый плагин Календарь Событий. Вызывается с помощью шорткода "
+"[test_calendar] в файлах темы или из текста любой публикации."
+
+#: admin/index.php:9 admin/index.php:10
+msgid "Add Event"
+msgstr "Добавить Событие"
+
+#: admin/index.php:51
+msgid "Add new Category"
+msgstr "Добавить новую Категорию"
+
+#: admin/index.php:81
+msgid "Add new Country"
+msgstr "Добавить новую Страну"
+
+#: admin/index.php:45
+msgid "All Categories"
+msgstr "Все Категории"
+
+#: admin/index.php:75
+msgid "All Countries"
+msgstr "Все Страны"
+
+#: admin/index.php:13
+msgid "All Events"
+msgstr "Все События"
+
+#: admin/index.php:42
+msgid "Categories"
+msgstr "Категории"
+
+#: admin/index.php:43 admin/index.php:53
+msgid "Category"
+msgstr "Категория"
+
+#: admin/index.php:72
+msgid "Countries"
+msgstr "Страны"
+
+#: admin/index.php:73 admin/index.php:83
+msgid "Country"
+msgstr "Страна"
+
+#: admin/index.php:49
+msgid "Edit Category"
+msgstr "Редактировать Категорию"
+
+#: admin/index.php:79
+msgid "Edit Country"
+msgstr "Редактировать Страну"
+
+#: admin/index.php:11
+msgid "Edit Event"
+msgstr "Редактировать Событие"
+
+#: admin/index.php:8
+msgid "Event"
+msgstr "Событие"
+
+#: admin/index.php:7 admin/index.php:18
+msgid "Events"
+msgstr "События"
+
+#: admin/index.php:16
+msgid "Events not found"
+msgstr "События не найдены"
+
+#: admin/index.php:52
+msgid "New Category Name"
+msgstr "Новое имя категории"
+
+#: admin/index.php:82
+msgid "New Country Name"
+msgstr "Новое имя Страны"
+
+#: admin/index.php:12
+msgid "New Event"
+msgstr "Новое событие"
+
+#: admin/index.php:17
+msgid "Not found Events in trash"
+msgstr "Не найдено Событий в корзине"
+
+#: admin/index.php:47
+msgid "Parent Category"
+msgstr "Родительская Категоря"
+
+#: admin/index.php:48
+msgid "Parent Category:"
+msgstr "Родительская Категория:"
+
+#: admin/index.php:77
+msgid "Parent Country"
+msgstr "Родительская Страна"
+
+#: admin/index.php:78
+msgid "Parent Country:"
+msgstr "Родительская Страна"
+
+#: admin/index.php:44
+msgid "Search Categories"
+msgstr "Поиск Категорий"
+
+#: admin/index.php:74
+msgid "Search Countries"
+msgstr "Поиск Стран"
+
+#: admin/index.php:15
+msgid "Search Events"
+msgstr "Поиск Событий"
+
+#. Name of the plugin
+msgid "Test Calendar"
+msgstr ""
+
+#: admin/index.php:50
+msgid "Update Category"
+msgstr "Обновить Категорию"
+
+#: admin/index.php:80
+msgid "Update Country"
+msgstr "Обновить Страну"
+
+#: admin/index.php:46
+msgid "View Category"
+msgstr "Просмотр Категории"
+
+#: admin/index.php:76
+msgid "View Country"
+msgstr "Просмотр Страны"
+
+#: admin/index.php:14
+msgid "View Events on site"
+msgstr "Просмотреть События на сайте"

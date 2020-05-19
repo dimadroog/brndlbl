@@ -1,0 +1,1 @@
+<div class="monthly" id="mycalendar" data-jsonurl="<?php echo plugin_dir_url( __FILE__ ) ?>"></div>

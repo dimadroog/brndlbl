@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-19 15:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#. Description of the plugin
+msgid ""
+"A test Calendar. Calls with shortcode [test_calendar] in theme or any post"
+msgstr ""
+
+#: admin/index.php:9 admin/index.php:10
+msgid "Add Event"
+msgstr ""
+
+#: admin/index.php:51
+msgid "Add new Category"
+msgstr ""
+
+#: admin/index.php:81
+msgid "Add new Country"
+msgstr ""
+
+#: admin/index.php:45
+msgid "All Categories"
+msgstr ""
+
+#: admin/index.php:75
+msgid "All Countries"
+msgstr ""
+
+#: admin/index.php:13
+msgid "All Events"
+msgstr ""
+
+#: admin/index.php:42
+msgid "Categories"
+msgstr ""
+
+#: admin/index.php:43 admin/index.php:53
+msgid "Category"
+msgstr ""
+
+#: admin/index.php:72
+msgid "Countries"
+msgstr ""
+
+#: admin/index.php:73 admin/index.php:83
+msgid "Country"
+msgstr ""
+
+#: admin/index.php:49
+msgid "Edit Category"
+msgstr ""
+
+#: admin/index.php:79
+msgid "Edit Country"
+msgstr ""
+
+#: admin/index.php:11
+msgid "Edit Event"
+msgstr ""
+
+#: admin/index.php:8
+msgid "Event"
+msgstr ""
+
+#: admin/index.php:7 admin/index.php:18
+msgid "Events"
+msgstr ""
+
+#: admin/index.php:16
+msgid "Events not found"
+msgstr ""
+
+#: admin/index.php:52
+msgid "New Category Name"
+msgstr ""
+
+#: admin/index.php:82
+msgid "New Country Name"
+msgstr ""
+
+#: admin/index.php:12
+msgid "New Event"
+msgstr ""
+
+#: admin/index.php:17
+msgid "Not found Events in trash"
+msgstr ""
+
+#: admin/index.php:47
+msgid "Parent Category"
+msgstr ""
+
+#: admin/index.php:48
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/index.php:77
+msgid "Parent Country"
+msgstr ""
+
+#: admin/index.php:78
+msgid "Parent Country:"
+msgstr ""
+
+#: admin/index.php:44
+msgid "Search Categories"
+msgstr ""
+
+#: admin/index.php:74
+msgid "Search Countries"
+msgstr ""
+
+#: admin/index.php:15
+msgid "Search Events"
+msgstr ""
+
+#. Name of the plugin
+msgid "Test Calendar"
+msgstr ""
+
+#: admin/index.php:50
+msgid "Update Category"
+msgstr ""
+
+#: admin/index.php:80
+msgid "Update Country"
+msgstr ""
+
+#: admin/index.php:46
+msgid "View Category"
+msgstr ""
+
+#: admin/index.php:76
+msgid "View Country"
+msgstr ""
+
+#: admin/index.php:14
+msgid "View Events on site"
+msgstr ""
