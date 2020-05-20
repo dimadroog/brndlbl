@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test Calendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-19 15:58+0000\n"
+"POT-Creation-Date: 2020-05-20 10:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Add new Country"
 msgstr ""
 
-#: admin/index.php:45
+#: admin/index.php:45 front/index.php:23
 msgid "All Categories"
 msgstr ""
 
@@ -48,15 +48,19 @@ msgstr ""
 msgid "Categories"
 msgstr ""
 
-#: admin/index.php:43 admin/index.php:53
+#: admin/index.php:43 admin/index.php:53 front/index.php:16
 msgid "Category"
+msgstr ""
+
+#: front/index.php:15
+msgid "City"
 msgstr ""
 
 #: admin/index.php:72
 msgid "Countries"
 msgstr ""
 
-#: admin/index.php:73 admin/index.php:83
+#: admin/index.php:73 admin/index.php:83 front/index.php:14
 msgid "Country"
 msgstr ""
 
@@ -74,6 +78,18 @@ msgstr ""
 
 #: admin/index.php:8
 msgid "Event"
+msgstr ""
+
+#: front/index.php:13
+msgid "Event Date"
+msgstr ""
+
+#: front/index.php:10
+msgid "Event Details"
+msgstr ""
+
+#: front/index.php:12
+msgid "Event Title"
 msgstr ""
 
 #: admin/index.php:7 admin/index.php:18
@@ -146,6 +162,10 @@ msgstr ""
 
 #: admin/index.php:76
 msgid "View Country"
+msgstr ""
+
+#: front/index.php:17
+msgid "View Event"
 msgstr ""
 
 #: admin/index.php:14
